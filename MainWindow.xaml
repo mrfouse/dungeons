@@ -9,7 +9,7 @@
     <Grid Name="Main">
         <Canvas Name="canvas">
             <Canvas.Background>
-                <ImageBrush ImageSource="C:\Users\Павел\Desktop\map.jpeg"></ImageBrush>
+                <ImageBrush ImageSource="pack://application:,,,/dungeons;component/map.jpeg"></ImageBrush>
             </Canvas.Background>
             <Label Background="Wheat" Content="были обнаружены&#xD;&#xA; следующие пещеры:" Height="46" Canvas.Left="408" Canvas.Top="10" Width="132" HorizontalAlignment="Left" VerticalAlignment="Center"/>
         </Canvas>

@@ -31,7 +31,7 @@ namespace dungeons
                     {
                         Width = 20,
                         Height = 20,
-                        Fill = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\Павел\\Desktop\\cave.png")))
+                        Fill = new ImageBrush(new BitmapImage(new Uri("pack://application:,,,/dungeons;component/cave.png")))
                     };
                 }
                 else

@@ -18,3 +18,4 @@ C:\Users\Павел\Desktop\ass\dungeons\obj\Debug\net8.0-windows\refint\dungeon
 C:\Users\Павел\Desktop\ass\dungeons\obj\Debug\net8.0-windows\dungeons.pdb
 C:\Users\Павел\Desktop\ass\dungeons\obj\Debug\net8.0-windows\dungeons.genruntimeconfig.cache
 C:\Users\Павел\Desktop\ass\dungeons\obj\Debug\net8.0-windows\ref\dungeons.dll
+C:\Users\Павел\Desktop\ass\dungeons\obj\Debug\net8.0-windows\dungeons.sourcelink.json

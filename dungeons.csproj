@@ -8,4 +8,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="cave.png" />
+    <None Remove="map.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cave.png" />
+    <Resource Include="map.jpeg" />
+  </ItemGroup>
+
 </Project>
